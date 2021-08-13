@@ -1,0 +1,39 @@
+{
+  "title": "Hi There!",
+  "sub_title": "Lorem Ipsum has been the  industry's standard dummy text ever since.",
+  "background_image": "https://pix6.agoda.net/hotelImages/618286/-1/f3178ca7b8b3835352c8a0a2672ac7fd.jpg?s=1024x768",
+  "hotels": [{
+      "id": "gen-cotg",
+      "name": "Genesis Cottage",
+      "image": "https://www.bedbreakfast.ee/wp-content/uploads/2016/10/hotel-room.jpg",
+      "services": {
+        "available_rooms": "http://197.253.22.108/OWS_WS_51/Availability.asmx",
+        "create_reservation": "http://197.253.22.108/OWS_WS_51/Reservation.asmx",
+        "update_reservation": "http://197.253.22.108/OWS_WS_51/Reservation.asmx",
+        "cancel_reservation": "http://197.253.22.108/OWS_WS_51/Reservation.asmx"
+      }
+    },
+    {
+      "id": "gen-soj",
+      "name": "Genesis Sojourner",
+      "image": "https://d3e7bfg0h5jt4g.mrandmrssmith.com/images/1482x988/4704644-palais-ronsard-marrakech-morocco.jpg",
+      "services": {
+        "available_rooms": "http://197.253.22.108/OWS_WS_51/Availability.asmx",
+        "create_reservation": "http://197.253.22.108/OWS_WS_51/Reservation.asmx",
+        "update_reservation": "http://197.253.22.108/OWS_WS_51/Reservation.asmx",
+        "cancel_reservation": "http://197.253.22.108/OWS_WS_51/Reservation.asmx"
+      }
+    },
+    {
+      "id": "gen-cstl",
+      "name": "Genesis Castle",
+      "image": "https://cdn.weddingbells.ca/wp-content/uploads/2015/04/best-las-vegas-hotels-bellagio-600x761.jpg",
+      "services": {
+        "available_rooms": "http://197.253.22.108/OWS_WS_51/Availability.asmx",
+        "create_reservation": "http://197.253.22.108/OWS_WS_51/Reservation.asmx",
+        "update_reservation": "http://197.253.22.108/OWS_WS_51/Reservation.asmx",
+        "cancel_reservation": "http://197.253.22.108/OWS_WS_51/Reservation.asmx"
+      }
+    }
+  ]
+}

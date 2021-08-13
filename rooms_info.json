@@ -1,0 +1,156 @@
+[
+  {
+    "type": "DELX",
+    "hotel": "gen-soj",
+    "images": [
+      "https://pix10.agoda.net/hotelImages/162/1622852/1622852_17021606380051054638.jpg?s=1024x768",
+      "https://q-cf.bstatic.com/images/hotel/max1024x768/124/124033028.jpg",
+      "https://www.manakaimaui.com/wp-content/uploads/2018/12/Hotel-Room-1.jpg",
+      "https://q-cf.bstatic.com/images/hotel/max1024x768/124/124033028.jpg",
+      "https://www.bedbreakfast.ee/wp-content/uploads/2016/10/hotel-room.jpg",
+      "https://cdn.cnn.com/cnnnext/dam/assets/140127103345-peninsula-shanghai-deluxe-mock-up.jpg"
+    ],
+    "facilities": "AC/WiFi/24 Hr Power/Restaurant/Bar/Electric Table/Laundry/Balcony/Fridge/Safe",
+    "description": "Single room 2 persons."
+  },
+  {
+    "type": "EXEC",
+    "hotel": "gen-soj",
+    "images": [
+      "https://cdn.cnn.com/cnnnext/dam/assets/140127103345-peninsula-shanghai-deluxe-mock-up.jpg",
+      "https://pix10.agoda.net/hotelImages/162/1622852/1622852_17021606380051054638.jpg?s=1024x768",
+      "https://q-cf.bstatic.com/images/hotel/max1024x768/124/124033028.jpg",
+      "https://www.manakaimaui.com/wp-content/uploads/2018/12/Hotel-Room-1.jpg",
+      "https://q-cf.bstatic.com/images/hotel/max1024x768/124/124033028.jpg",
+      "https://www.bedbreakfast.ee/wp-content/uploads/2016/10/hotel-room.jpg"
+    ],
+    "facilities": "AC/WiFi/24 Hr Power/Restaurant/Bar/Electric Table/Laundry/Fridge/Safe",
+    "description": "Large room 2 persons or more."
+  },
+  {
+    "type": "SUPR",
+    "hotel": "gen-soj",
+    "images": [
+      "https://pix10.agoda.net/hotelImages/162/1622852/1622852_17021606380051054638.jpg?s=1024x768",
+      "https://q-cf.bstatic.com/images/hotel/max1024x768/112/112782897.jpg",
+      "https://www.manakaimaui.com/wp-content/uploads/2018/12/Hotel-Room-1.jpg",
+      "https://q-cf.bstatic.com/images/hotel/max1024x768/124/124033028.jpg",
+      "https://www.bedbreakfast.ee/wp-content/uploads/2016/10/hotel-room.jpg",
+      "https://cdn.cnn.com/cnnnext/dam/assets/140127103345-peninsula-shanghai-deluxe-mock-up.jpg"
+    ],
+    "facilities": "AC/WiFi/24 Hr Power/Restaurant/Bar/Elec tric Table/Laundry/Fridge/Safe",
+    "description": "Single room 2 persons."
+  },
+  {
+    "type": "SUI",
+    "hotel": "gen-soj",
+    "images": [
+      "https://www.manakaimaui.com/wp-content/uploads/2018/12/Hotel-Room-1.jpg",
+      "https://pix10.agoda.net/hotelImages/162/1622852/1622852_17021606380051054638.jpg?s=1024x768",
+      "https://q-cf.bstatic.com/images/hotel/max1024x768/112/112782897.jpg",
+      "https://q-cf.bstatic.com/images/hotel/max1024x768/124/124033028.jpg",
+      "https://www.bedbreakfast.ee/wp-content/uploads/2016/10/hotel-room.jpg",
+      "https://cdn.cnn.com/cnnnext/dam/assets/140127103345-peninsula-shanghai-deluxe-mock-up.jpg"
+    ],
+    "facilities": "AC/WiFi/24 Hr Power/Restaurant/Bar/Electric Table/Laundry/Fridge/Safe",
+    "description": "Room/ lobby/Dinning/Cabinet/2 toilets."
+  },
+  {
+    "type": "EXER",
+    "hotel": "gen-cotg",
+    "images": [
+      "https://cdn.cnn.com/cnnnext/dam/assets/140127103345-peninsula-shanghai-deluxe-mock-up.jpg",
+      "https://pix10.agoda.net/hotelImages/162/1622852/1622852_17021606380051054638.jpg?s=1024x768",
+      "https://q-cf.bstatic.com/images/hotel/max1024x768/124/124033028.jpg",
+      "https://www.manakaimaui.com/wp-content/uploads/2018/12/Hotel-Room-1.jpg",
+      "https://q-cf.bstatic.com/images/hotel/max1024x768/124/124033028.jpg",
+      "https://www.bedbreakfast.ee/wp-content/uploads/2016/10/hotel-room.jpg"
+    ],
+    "facilities": "AC/WiFi/24 Hr Power/Restaurant/Bar/Electric Table/Dry cleaning",
+    "description": "Large room 3 persons or more."
+  },
+  {
+    "type": "EXES",
+    "hotel": "gen-cotg",
+    "images": [
+      "https://www.manakaimaui.com/wp-content/uploads/2018/12/Hotel-Room-1.jpg",
+      "https://pix10.agoda.net/hotelImages/162/1622852/1622852_17021606380051054638.jpg?s=1024x768",
+      "https://q-cf.bstatic.com/images/hotel/max1024x768/112/112782897.jpg",
+      "https://q-cf.bstatic.com/images/hotel/max1024x768/124/124033028.jpg",
+      "https://www.bedbreakfast.ee/wp-content/uploads/2016/10/hotel-room.jpg",
+      "https://cdn.cnn.com/cnnnext/dam/assets/140127103345-peninsula-shanghai-deluxe-mock-up.jpg"
+    ],
+    "facilities": "AC/WiFi/24 Hr Power/Restaurant/Bar/Electric Table/Dry cleaning",
+    "description": "Room and lobby."
+  },
+  {
+    "type": "CLAS",
+    "hotel": "gen-cstl",
+    "images": [
+      "https://www.manakaimaui.com/wp-content/uploads/2018/12/Hotel-Room-1.jpg",
+      "https://pix10.agoda.net/hotelImages/162/1622852/1622852_17021606380051054638.jpg?s=1024x768",
+      "https://q-cf.bstatic.com/images/hotel/max1024x768/112/112782897.jpg",
+      "https://q-cf.bstatic.com/images/hotel/max1024x768/124/124033028.jpg",
+      "https://www.bedbreakfast.ee/wp-content/uploads/2016/10/hotel-room.jpg",
+      "https://cdn.cnn.com/cnnnext/dam/assets/140127103345-peninsula-shanghai-deluxe-mock-up.jpg"
+    ],
+    "facilities": "AC/WiFi/24 Hr Power/Restaurant/Bar/Electric Table/Dry cleaning",
+    "description": "Single room 2 persons."
+  },
+  {
+    "type": "SUPERC",
+    "hotel": "gen-cstl",
+    "images": [
+      "https://www.manakaimaui.com/wp-content/uploads/2018/12/Hotel-Room-1.jpg",
+      "https://pix10.agoda.net/hotelImages/162/1622852/1622852_17021606380051054638.jpg?s=1024x768",
+      "https://q-cf.bstatic.com/images/hotel/max1024x768/112/112782897.jpg",
+      "https://q-cf.bstatic.com/images/hotel/max1024x768/124/124033028.jpg",
+      "https://www.bedbreakfast.ee/wp-content/uploads/2016/10/hotel-room.jpg",
+      "https://cdn.cnn.com/cnnnext/dam/assets/140127103345-peninsula-shanghai-deluxe-mock-up.jpg"
+    ],
+    "facilities": "AC/WiFi/24 Hr Power/Restaurant/Bar/Elec tric Table/Dry cleaning",
+    "description": "Single room 3 persons."
+  },
+  {
+    "type": "SDEL",
+    "hotel": "gen-cstl",
+    "images": [
+      "https://www.bedbreakfast.ee/wp-content/uploads/2016/10/hotel-room.jpg",
+      "https://www.manakaimaui.com/wp-content/uploads/2018/12/Hotel-Room-1.jpg",
+      "https://pix10.agoda.net/hotelImages/162/1622852/1622852_17021606380051054638.jpg?s=1024x768",
+      "https://q-cf.bstatic.com/images/hotel/max1024x768/112/112782897.jpg",
+      "https://q-cf.bstatic.com/images/hotel/max1024x768/124/124033028.jpg",
+      "https://cdn.cnn.com/cnnnext/dam/assets/140127103345-peninsula-shanghai-deluxe-mock-up.jpg"
+    ],
+    "facilities": "AC/WiFi/24 Hr Power/Restaurant/Bar/Electric Table/Dry cleaning",
+    "description": "Big room."
+  },
+  {
+    "type": "SEXER",
+    "hotel": "gen-cstl",
+    "images": [
+      "https://cdn.cnn.com/cnnnext/dam/assets/140127103345-peninsula-shanghai-deluxe-mock-up.jpg",
+      "https://www.bedbreakfast.ee/wp-content/uploads/2016/10/hotel-room.jpg",
+      "https://www.manakaimaui.com/wp-content/uploads/2018/12/Hotel-Room-1.jpg",
+      "https://pix10.agoda.net/hotelImages/162/1622852/1622852_17021606380051054638.jpg?s=1024x768",
+      "https://q-cf.bstatic.com/images/hotel/max1024x768/112/112782897.jpg",
+      "https://q-cf.bstatic.com/images/hotel/max1024x768/124/124033028.jpg"
+    ],
+    "facilities": "AC/WiFi/24 Hr Power/Restaurant/Bar/Electric Table/Dry cleaning",
+    "description": "Large room 4 persons."
+  },
+  {
+    "type": "REXES",
+    "hotel": "gen-cstl",
+    "images": [
+      "https://www.manakaimaui.com/wp-content/uploads/2018/12/Hotel-Room-1.jpg",
+      "https://cdn.cnn.com/cnnnext/dam/assets/140127103345-peninsula-shanghai-deluxe-mock-up.jpg",
+      "https://www.bedbreakfast.ee/wp-content/uploads/2016/10/hotel-room.jpg",
+      "https://pix10.agoda.net/hotelImages/162/1622852/1622852_17021606380051054638.jpg?s=1024x768",
+      "https://q-cf.bstatic.com/images/hotel/max1024x768/112/112782897.jpg",
+      "https://q-cf.bstatic.com/images/hotel/max1024x768/124/124033028.jpg"
+    ],
+    "facilities": "AC/WiFi/24 Hr Power/Restaurant/Bar/Electric Table/Dry cleaning",
+    "description": "Room and lobby."
+  }
+]

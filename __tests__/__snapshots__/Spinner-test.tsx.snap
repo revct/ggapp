@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Spinner Rendering should match snapshot 1`] = `
+<ActivityIndicator
+  animating={true}
+  color="#616161"
+  hidesWhenStopped={true}
+  size="small"
+/>
+`;
+
+exports[`Spinner Rendering should match snapshot 2`] = `
+<ActivityIndicator
+  animating={true}
+  color="#616161"
+  hidesWhenStopped={true}
+  size="large"
+/>
+`;

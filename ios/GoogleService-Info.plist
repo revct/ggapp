@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>500495015855-ms2omeqeuljg8gge8u3a96m0s7hh77pj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.500495015855-ms2omeqeuljg8gge8u3a96m0s7hh77pj</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>500495015855-5rhamj71t5p6skp9sc0jkg3r6t2dv4qo.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA7l0cATgBjptIbWbQ_iQlOUCH1b1GfLpY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>500495015855</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.thegenesisapp</string>
+	<key>PROJECT_ID</key>
+	<string>go-genesis</string>
+	<key>STORAGE_BUCKET</key>
+	<string>go-genesis.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:500495015855:ios:97c581c12c681b9c4b195a</string>
+	<key>DATABASE_URL</key>
+	<string>https://go-genesis.firebaseio.com</string>
+</dict>
+</plist>
